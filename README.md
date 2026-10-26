@@ -12,6 +12,7 @@ contém código-fonte de nenhum app.
 | Async Runner | https://euclidespaim.github.io/cyberkid-policies/async-runner/ |
 | PyQuest | https://euclidespaim.github.io/cyberkid-policies/pyquest/ |
 | Neon Blocks | https://euclidespaim.github.io/cyberkid-policies/neon-blocks/ |
+| Brisa | https://euclidespaim.github.io/cyberkid-policies/brisa/ |
 
 São essas as URLs que devem constar na ficha de cada app no Google Play Console.
 
